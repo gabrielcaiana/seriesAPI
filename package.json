@@ -10,7 +10,6 @@
     "build": "npm run clean && npm run prebuild"
   },
   "keywords": [],
-  "author": "arthurolvmorais@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
